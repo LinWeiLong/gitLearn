@@ -1,0 +1,17 @@
+var danmu;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
+var danmu2;
