@@ -1,1 +1,3 @@
-console.log('write functions here')
+console.log('哈哈哈哈')
+console.log('阿萨德骄傲看简历')
+console.log('阿斯达大 here')
