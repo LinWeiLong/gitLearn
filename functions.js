@@ -1,1 +1,1 @@
-console.log('write functions here')
+console.log('另一个function，和牛逼的')
